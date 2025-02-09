@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Sun rays -->
+  <g fill="#FFA500">
+    <path d="M250 100 L250 50 L260 50 L250 100 Z"/>
+    <path d="M300 110 L330 70 L340 75 L300 110 Z"/>
+    <path d="M340 150 L390 130 L395 140 L340 150 Z"/>
+    <path d="M200 110 L170 70 L160 75 L200 110 Z"/>
+    <path d="M160 150 L110 130 L105 140 L160 150 Z"/>
+  </g>
+  <!-- Globe -->
+  <circle cx="250" cy="200" r="80" fill="none" stroke="#0066CC" stroke-width="15"/>
+  <path d="M190 160 Q250 120 310 160 Q250 240 190 160" fill="none" stroke="#0066CC" stroke-width="15"/>
+  <path d="M190 240 Q250 180 310 240" fill="none" stroke="#0066CC" stroke-width="15"/>
+  <line x1="170" y1="200" x2="330" y2="200" stroke="#0066CC" stroke-width="15"/>
+  <!-- Hands -->
+  <path d="M150 300 Q250 250 350 300" fill="none" stroke="#0066CC" stroke-width="15"/>
+</svg>
